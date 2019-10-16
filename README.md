@@ -5,4 +5,5 @@
 ![image](https://user-images.githubusercontent.com/22604365/66883420-e60b9980-ef9b-11e9-8c43-905702943984.png)
 
 2. Unfortunently, we could not get the Copper CU Google Extension to work even after changing the application ID in the ClientPortChrome javascript file. We got a message saying to install the app, so we could not complete this portion of the assignment.
+
 ![image](https://user-images.githubusercontent.com/22604365/66883440-f3c11f00-ef9b-11e9-978a-8fc200ad9f0c.png)
