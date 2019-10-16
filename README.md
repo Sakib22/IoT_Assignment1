@@ -1,6 +1,6 @@
 # IoT_Assignment1
-Group Members: Sakib Shahriyar - 100587434
-               Muhtasim Chowdhury - 100584755
+Group Members: Sakib Shahriyar - 100587434,
+               Muhtasim Chowdhury - 100584755,
                Nafis Mobassher - 100587562
                
 1. We used the bluepy library that was made by Ian Harvey. With this library we were able to get the information of all the sensors in the sensortag. We created a python file in the bluepy folder called "SensorTag2650.py". In that file, we implemented MQTT and were able to allow the client to specify the sensor that they would want to recieve.
